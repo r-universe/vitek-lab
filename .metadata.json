@@ -1,0 +1,11 @@
+[
+  {
+    "package": "MSstatsLOBD"
+  },
+  {
+    "package": "MSstatsPTM"
+  },
+  {
+    "package": "MSstatsTMTPTM"
+  }
+]
