@@ -18,3 +18,8 @@
 	url = https://github.com/vitek-lab/msstatsptm
 	shallow = true
 	registered = true
+[submodule "MSstatsShiny"]
+	path = MSstatsShiny
+	url = https://github.com/vitek-lab/msstatsshiny
+	shallow = true
+	registered = true
