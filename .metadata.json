@@ -1,8 +1,5 @@
 [
   {
-    "package": "MSstatsLiP"
-  },
-  {
     "package": "MSstatsLOBD"
   },
   {
@@ -10,5 +7,8 @@
   },
   {
     "package": "MSstatsShiny"
+  },
+  {
+    "package": "MSstatsLiP"
   }
 ]
