@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MSstatsShiny"]
+	path = MSstatsShiny
+	url = https://github.com/vitek-lab/msstatsshiny
+	shallow = true
+	registered = true
 [submodule "MSstatsLiP"]
 	path = MSstatsLiP
 	url = https://github.com/vitek-lab/msstatslip
-	shallow = true
-	registered = true
-[submodule "MSstatsLOBD"]
-	path = MSstatsLOBD
-	url = https://github.com/vitek-lab/msstatslobd
 	shallow = true
 	registered = true
 [submodule "MSstatsPTM"]
@@ -18,8 +18,8 @@
 	url = https://github.com/vitek-lab/msstatsptm
 	shallow = true
 	registered = true
-[submodule "MSstatsShiny"]
-	path = MSstatsShiny
-	url = https://github.com/vitek-lab/msstatsshiny
+[submodule "MSstatsLOBD"]
+	path = MSstatsLOBD
+	url = https://github.com/vitek-lab/msstatslobd
 	shallow = true
 	registered = true
