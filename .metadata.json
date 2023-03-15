@@ -1,14 +1,14 @@
 [
   {
-    "package": "MSstatsShiny"
+    "package": "MSstatsLiP"
   },
   {
-    "package": "MSstatsLiP"
+    "package": "MSstatsLOBD"
   },
   {
     "package": "MSstatsPTM"
   },
   {
-    "package": "MSstatsLOBD"
+    "package": "MSstatsShiny"
   }
 ]
